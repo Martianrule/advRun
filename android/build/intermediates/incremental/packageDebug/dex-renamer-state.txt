@@ -1,0 +1,7 @@
+#Thu Oct 20 09:38:50 CEST 2016
+base.0=C\:\\Users\\isakms\\Desktop\\advrun\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_08de9d4f713acd7a09aebfbbf9e1802dada520a0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\isakms\\Desktop\\advrun\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e1d0aba0f12f604ca3ee7e83d91ddaf3e0722aa7\\classes.dex
+base.1=C\:\\Users\\isakms\\Desktop\\advrun\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e1d0aba0f12f604ca3ee7e83d91ddaf3e0722aa7
+file.0=C\:\\Users\\isakms\\Desktop\\advrun\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_08de9d4f713acd7a09aebfbbf9e1802dada520a0\\classes.dex
