@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\isakms\Desktop\advrun\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3549863e6fcb362edfe53cd0ab8a1ee2687f3944">
+        <dex dex="C:\Users\isakms\Desktop\advrun\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_08de9d4f713acd7a09aebfbbf9e1802dada520a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\isakms\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.9.4\8816dd669b8ca09e7d5e9575807e92c4318f708\gdx-freetype-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="08816dd669b8ca09e7d5e9575807e92c4318f708">
+        <dex dex="C:\Users\isakms\Desktop\advrun\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-freetype-1.9.4_889c08cd0be1f5be8fb07f63854c8ccba1df24b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\isakms\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.4\194b33382d6d58fad031521ba3331d926c476c9b\gdx-backend-android-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="194b33382d6d58fad031521ba3331d926c476c9b">
+        <dex dex="C:\Users\isakms\Desktop\advrun\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.9.4_f4802a2d3d75d5a4486fb66349b6b4a29155c0e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\isakms\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-bullet\1.9.4\971a174538f313b9f975b8a6bbdf3aad04bb564d\gdx-bullet-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="971a174538f313b9f975b8a6bbdf3aad04bb564d">
+        <dex dex="C:\Users\isakms\Desktop\advrun\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-bullet-1.9.4_1e6e00c34f1fd5433059fdcd04170c2630ac08b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\isakms\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.4\98a0d25c9f0637fecac6e4aacf7287aa635964f5\gdx-box2d-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98a0d25c9f0637fecac6e4aacf7287aa635964f5">
+        <dex dex="C:\Users\isakms\Desktop\advrun\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-box2d-1.9.4_d0b10d2c39dd81bab3cb9f001c3820ae9f18c1b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\isakms\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.4\4b4b7962d1bc75af0438f5c81ec1010557bc9ee5\gdx-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b4b7962d1bc75af0438f5c81ec1010557bc9ee5">
+        <dex dex="C:\Users\isakms\Desktop\advrun\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.9.4_615dd0cadae5ef7180ac3c1bfda9c3e72e3c2c69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\isakms\Desktop\advrun\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="467b10e4d82fa8c28fad09658887d73805406705">
+        <dex dex="C:\Users\isakms\Desktop\advrun\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e1d0aba0f12f604ca3ee7e83d91ddaf3e0722aa7\classes.dex" />
+    </item>
+
+</items>
